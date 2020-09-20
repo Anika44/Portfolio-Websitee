@@ -1,0 +1,47 @@
+@media (max-width: 1399px){
+    header{
+        background-size: 650px !important;
+    }
+}
+@media (max-width: 1199px){
+    header{
+        background-size: 600px !important;
+    }
+header h1 {
+    font-size: 34px !important;
+}
+.content p {
+    font-size: 13px !important;
+}
+@media(max-width: 991px){
+header{
+        background-size: 450px !important;
+    }
+}
+.content p {
+    font-size: 10px !important;
+}
+header h1 {
+    font-size: 29px !important;
+}
+@media(max-width: 767px){
+header {
+        background-image: url();
+}
+.content p {
+    font-size: 15px !important;
+}
+header h1 {
+    font-size: 40px !important;
+}
+@media (max-width: 575px){
+    .content p {
+    font-size: 15px !important;
+}
+header h1 {
+    font-size: 40px !important;
+}
+.logo .p-5 {
+    padding: 2rem!important;
+}
+}
