@@ -622,9 +622,7 @@ section {
   color: #616161;
   margin-bottom: 20px; }
 .input-section form p {
-  text-align: center;
-  margin: auto;
-padding-bottom: 10px;}
+  text-align: center;}
 .input-section form input {
   width: 95%;
   border: none;
